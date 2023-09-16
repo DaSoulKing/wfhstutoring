@@ -1,0 +1,39 @@
+html {
+    background-color: white;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    padding-left: 43%;
+}
+
+#titleBox {
+    height: 100px;
+    width: 100%;
+}
+
+#background {
+    background-color: white;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+}
+
+.texth2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.heading {
+    color: green;
+}
+
+.headerbox {
+    color: black;
+}
