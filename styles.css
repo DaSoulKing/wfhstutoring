@@ -22,6 +22,10 @@ h1 {
     text-align: center;
 }
 
+h3 {
+    text-align: center;
+}
+
 .texth2 {
     text-align: center;
 }
@@ -32,6 +36,7 @@ p {
 
 .heading {
     color: green;
+    text-align: right;
 }
 
 .headerbox {
